@@ -6,7 +6,7 @@ My journey learning C++. This project contains two applications:
 A simple CLI echo program that takes named input parameters and outputs them in alphabetical order.
 
 ## 2. LibrarySystem
-A comprehensive command-line library management system built in C++. This application demonstrates CRUD (Create, Read, Update, Delete) operations for managing a collection of books.
+A sample command-line library management system built in C++. This application demonstrates CRUD (Create, Read, Update, Delete) operations for managing a collection of books.
 
 ---
 
